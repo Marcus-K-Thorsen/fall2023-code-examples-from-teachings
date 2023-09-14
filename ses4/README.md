@@ -1,0 +1,1 @@
+# Ses 4 kode fra undervisningen
