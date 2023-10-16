@@ -1,0 +1,2 @@
+## Kode fra undervisning 
+### Encapsulation
